@@ -61,5 +61,6 @@
      	<module>example-eureka-client</module>
     <module>example-ribbon-service</module>
     <module>example-feign-service</module>
+    <module>example-zuul-service</module>
   </modules>
 </project>
